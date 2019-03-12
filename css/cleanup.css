@@ -1,1 +1,29 @@
 /* write your override styles here */
+#wall .tag-1 {
+    display:none;
+}
+body #wall #tag-2 {
+   visibility:hidden;
+}
+body #wall #tag-3.slick {
+   visibility:hidden;
+   display:none;
+}
+#wall .parent #tag-4 {
+    display:none;
+
+}
+body #wall .parent #tag-5.slick {
+    display:none;
+    opacity:0;
+
+}
+body #wall div.parent div:last-child #tag-6 {
+    display:none;
+    visibility:hidden;
+}
+html body #wall div.parent div > #tag-7.slick {
+    display:none;
+    opacity:0;
+
+}
