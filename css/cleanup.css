@@ -5,3 +5,6 @@
 body #wall #tag-2 {
     opacity:0;
 }
+body div#wall #tag-3.slick {
+    z-index:0;
+}
