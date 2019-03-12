@@ -5,7 +5,7 @@
 body #wall #tag-2 {
     opacity:0;
 }
-body div#wall #tag-3.slick {
+body #wall #tag-3.slick {
     z-index:0;
 }
 #wall .parent #tag-4 {
