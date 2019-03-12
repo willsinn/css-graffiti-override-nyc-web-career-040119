@@ -8,3 +8,6 @@ body #wall #tag-2 {
 body div#wall #tag-3.slick {
     z-index:0;
 }
+#wall .parent #tag-4 {
+    visibility:hidden;
+}
