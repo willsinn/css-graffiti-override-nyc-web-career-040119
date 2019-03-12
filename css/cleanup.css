@@ -3,10 +3,10 @@
     display:none;
 }
 body #wall #tag-2 {
-    opacity:0;
+   visibility:hidden;
 }
 body #wall #tag-3.slick {
-    z-index:0;
+   visibility:hidden;
 }
 #wall .parent #tag-4 {
     visibility:hidden;
