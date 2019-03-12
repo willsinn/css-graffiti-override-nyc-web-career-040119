@@ -24,4 +24,6 @@ body #wall div.parent div:last-child #tag-6 {
 }
 html body #wall div.parent div > #tag-7.slick {
     display:none;
+    opacity:0;
+
 }
