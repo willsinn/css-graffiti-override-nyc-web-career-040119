@@ -3,13 +3,13 @@
     display:none;
 }
 body #wall #tag-2 {
-   display:none;
+   visibility:hidden;
 }
 body #wall #tag-3.slick {
-   display:none;
+   visibility:hidden;
 }
 #wall .parent #tag-4 {
-    visibility:hidden;
+    display:none;
 }
 body #wall .parent #tag-5.slick {
     display:none;
