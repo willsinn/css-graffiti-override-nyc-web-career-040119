@@ -6,7 +6,7 @@ body #wall #tag-2 {
    display:none;
 }
 body #wall #tag-3.slick {
-   visibility:hidden;
+   display:none;
 }
 #wall .parent #tag-4 {
     visibility:hidden;
